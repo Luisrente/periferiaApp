@@ -1,0 +1,43 @@
+{
+  "dates": {
+    "maximum": "2025-12-31",
+    "minimum": "2025-01-01"
+  },
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/path/to/backdrop.jpg",
+      "genre_ids": [28, 12, 878],
+      "id": 12345,
+      "original_language": "en",
+      "original_title": "The Example Movie",
+      "overview": "This is an example movie description.",
+      "popularity": 75.5,
+      "poster_path": "/path/to/poster.jpg",
+      "release_date": "2025-12-15",
+      "title": "The Example Movie",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 1500
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/path/to/backdrop2.jpg",
+      "genre_ids": [35, 18],
+      "id": 67890,
+      "original_language": "en",
+      "original_title": "Another Example Movie",
+      "overview": "This is another example movie description.",
+      "popularity": 80.0,
+      "poster_path": "/path/to/poster2.jpg",
+      "release_date": "2025-08-10",
+      "title": "Another Example Movie",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 1200
+    }
+  ],
+  "total_pages": 10,
+  "total_results": 200
+}

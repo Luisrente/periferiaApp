@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "456536531176",
+    "project_id": "periferiamovies",
+    "storage_bucket": "periferiamovies.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456536531176:android:9f8e749d79296a9251a95d",
+        "android_client_info": {
+          "package_name": "com.example.periferiamovies1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbmhPZ4-CY7bvQWUsMmaCEHKfkXfLnomM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
